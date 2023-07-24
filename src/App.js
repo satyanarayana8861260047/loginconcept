@@ -4,7 +4,7 @@ import TodoApp from './components/TodoApp'
 function App() {
   return (
     <div className="App">
-     <h1>Task Manager Coming Soon!</h1>
+     <h1>Task Manager Coming Soon!.......wait</h1>
      <TodoApp/>
     </div>
   );
